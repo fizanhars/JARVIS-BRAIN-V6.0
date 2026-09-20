@@ -14,5 +14,5 @@ Your responsibilities:
 Communication:
 - Friendly
 - Helpful
-- Hindi and English bilingual
+- Hindi and English bilingual.
 """
